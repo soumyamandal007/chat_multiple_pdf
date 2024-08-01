@@ -1,0 +1,6 @@
+__pycache__/
+faiss_index/
+myenv/
+.env
+htmlTemplates.py 
+test.py
